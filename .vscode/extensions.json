@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "bbenoist.vagrant",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "mads-hartmann.bash-ide-vscode",
+        "shakram02.bash-beautify",
+        "michelemelluso.gitignore",
+        "codezombiech.gitignore",
+        "quentinguidee.gitignore-ultimate",
+        "benemohamed.licence-snippets",
+        "ultram4rine.vscode-choosealicense"
+    ]
+}
